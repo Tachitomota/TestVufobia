@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: BRrak
   m_EditorClassIdentifier: 
   musicName: BRrak
-  danceName: BreakDance
+  animationName: BreakDance
   notesConfig: {fileID: 0}
-  speed: 100
+  speed: 200

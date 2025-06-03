@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: TWERK BRASILERO
   m_EditorClassIdentifier: 
   musicName: TWERK BRASILERO
-  danceName: Dacing Twerk
+  animationName: Dacing Twerk
   notesConfig: {fileID: 0}
-  speed: 100
+  speed: 200

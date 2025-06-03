@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: JAzzDance
   m_EditorClassIdentifier: 
   musicName: JAzzDance
-  danceName: Jazz Dancing
+  animationName: Jazz Dancing
   notesConfig: {fileID: 0}
-  speed: 100
+  speed: 200
